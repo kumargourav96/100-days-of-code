@@ -12,3 +12,19 @@
 
 **Link(s) to work**
 1. [Link for Udemy Course](https://www.udemy.com/course/data-analysis-with-pandas)
+
+### Day 5: June 11, Thursday
+**Progress**: Revised Seaborn library and Completed a free course on visulatization using Python from Great Learning 
+
+**Link(s)**
+1. [Link for the course](https://olympus.greatlearning.in/courses/10900)
+2. [Certificate](https://olympus1.greatlearning.in/course_certificate/XJUZXHUM)
+
+### Day 6: June 12, Friday
+**Progress**: Performed Descriptive Statistics on CardioGoodFitness data. 
+
+### Day 7 - 10 : June 13, Saturday - June 16, Tuesday
+**Progress**: Learning Tableau
+
+**Link(s)**
+1.[link for Tableau course](https://olympus.greatlearning.in/courses/10918)
